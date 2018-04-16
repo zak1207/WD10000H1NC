@@ -1,6 +1,6 @@
-Описание:
+РћРїРёСЃР°РЅРёРµ:
 https://mockmoon-cybernetics.ch/computer/wdh1nc10000/
 
-Прошивка:
+РџСЂРѕС€РёРІРєР°:
 http://websupport.wdc.com/firmware/list.asp?type=WDH1NC&fw=01.01.18
 http://download.wdc.com/nas/wdhxnc-01.02.14.img
