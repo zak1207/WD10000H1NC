@@ -1,6 +1,6 @@
-Описание:
+РћРїРёСЃР°РЅРёРµ:
 http://iknowsomething.com/how-to-fix-bricked-wd-my-book-world-edition-or-install-brand-new-disk/
 
-Прошивка:
+РџСЂРѕС€РёРІРєР°:
 http://websupport.wdc.com/firmware/list.asp?type=WDH1NC&fw=01.01.18
 http://download.wdc.com/nas/wdhxnc-01.02.14.img
